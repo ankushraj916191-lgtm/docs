@@ -1,6 +1,6 @@
 ---
 title: Adding a theme to your GitHub Pages site using Jekyll
-intro: You can personalize your Jekyll site by adding and customizing a theme.
+intro: You can personalize your Jekyll site by adding and customizing a theme
 redirect_from:
   - /articles/customizing-css-and-html-in-your-jekyll-theme
   - /articles/adding-a-jekyll-theme-to-your-github-pages-site
